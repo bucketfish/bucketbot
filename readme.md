@@ -35,3 +35,4 @@ there are many things that we have to implement. (eventually i'll move this to a
 - ❌ !serverinfo
 - ❌ emoji link
 - ❌ list users in role
+- ❌ acrophobia game
